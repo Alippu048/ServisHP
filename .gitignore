@@ -1,0 +1,18 @@
+# Build hasil compile
+build/
+dist/
+
+# NetBeans
+nbproject/private/
+
+# Java
+*.class
+*.jar
+*.war
+
+# Log
+*.log
+
+# Sistem operasi
+Thumbs.db
+.DS_Store
